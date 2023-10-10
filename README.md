@@ -1,0 +1,2 @@
+# devopes-soft
+code devoloping
